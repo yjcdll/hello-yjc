@@ -1,3 +1,3 @@
 # hello-yjc
-NO,testing!
+NO,testin!
 Some other changes.HAHA~
